@@ -1,9 +1,9 @@
-## 2020 Data Science Bootcamp
-# About project:
+# 2020 Data Science Bootcamp
+### About project:
 - to resolve a concern of a food processing corporation that planned on expanding their seaweed snack business into the North American markets.
-# Goal:
+### Goal:
 - research on overseas food market trends and draw strong marketing strategies with data.
-# Result:
+### Result:
 - Won 'Minister of Science and ICT's commendation' 1st place in a data science project contest
 
 ![NLP_project-01](https://user-images.githubusercontent.com/89289320/134765320-65bcbf24-f538-429b-8601-071c7a39d82d.jpg)
