@@ -3,6 +3,7 @@
 on expanding their seaweed snack business into the North American markets.
 - Our goal for the project was to research on overseas food market trends and draw strong marketing strategies with data.
 - Won 'Minister of Science and ICT's commendation' 1st place in a data science project contest
+
 ![NLP_project-01](https://user-images.githubusercontent.com/89289320/134765320-65bcbf24-f538-429b-8601-071c7a39d82d.jpg)
 ![NLP_project-02](https://user-images.githubusercontent.com/89289320/134765331-e68b7936-ebbc-4d90-b7aa-54afae2cc98a.jpg)
 ![NLP_project-03](https://user-images.githubusercontent.com/89289320/134765334-537c58f5-d40b-4145-bb19-01c2ec1d4d77.jpg)
