@@ -1,6 +1,6 @@
 # 2020 Data Science Bootcamp
 ### About project
-To resolve a concern of a food processing corporation that planned on expanding their seaweed snack business into the North American markets.
+Project done to resolve a concern of a food processing corporation that plans on expanding their seaweed snack business into the North American markets.
 ### Goal
 Research on overseas food market trends and draw strong marketing strategies with data.
 ### Result
