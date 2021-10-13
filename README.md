@@ -4,7 +4,7 @@ To resolve a concern of a food processing corporation that planned on expanding 
 ### Goal
 Research on overseas food market trends and draw strong marketing strategies with data.
 ### Result
-Won 'Minister of Science and ICT's commendation' 1st place in a data science project contest
+Won 'Minister of Science and ICT's commendation' 1st place in a data science project contest where over 600 undergraduates participated in.
 
 ![NLP_project-01](https://user-images.githubusercontent.com/89289320/134765320-65bcbf24-f538-429b-8601-071c7a39d82d.jpg)
 ![NLP_project-02](https://user-images.githubusercontent.com/89289320/134765331-e68b7936-ebbc-4d90-b7aa-54afae2cc98a.jpg)
