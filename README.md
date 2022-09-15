@@ -5,7 +5,7 @@ Project done to resolve a concern of a seaweed snack manufacturing corporation t
 ### Goal
 Research on seaweed snack overseas market demands and draw strong marketing strategies with data.
 ### Result
-- Won 'Minister of Science and ICT's commendation'
+- Won 'Minister of Science and ICT's commendation' in Korea 
 - 1st place in a data science project contest where over 600 undergraduates participated in.
 
 
